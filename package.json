@@ -1,0 +1,27 @@
+{
+  "name": "pre-processing",
+  "version": "1.0.0",
+  "description": "sass /scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniimoskalenko/pre-processing.git"
+  },
+  "keywords": [
+    "sass",
+    "scss"
+  ],
+  "author": "yevhenii moskalenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniimoskalenko/pre-processing/issues"
+  },
+  "homepage": "https://github.com/yevheniimoskalenko/pre-processing#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
